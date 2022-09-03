@@ -9,7 +9,7 @@ public class SwapNumbers {
         System.out.println("Second number = " + second);
 
         // Value of first is assigned to temporary
-        float temporary = first;
+        floa temporary = first;
 
         // Value of second is assigned to first
         first = second;
